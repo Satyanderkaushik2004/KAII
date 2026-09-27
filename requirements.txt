@@ -1,0 +1,8 @@
+flask
+requests
+psutil        # optional: real CPU/RAM numbers in the dock (shows N/A without it)
+pytest        # only for running tests/
+# optional: playwright (+ `playwright install chromium`) enables render checks in check_website
+openpyxl
+python-pptx
+python-docx
