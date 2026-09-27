@@ -164,5 +164,4 @@ one never disconnects another.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Replace the `[Your Name]` placeholder in that
-file with your name before publishing.
+MIT — see [LICENSE](LICENSE). 
